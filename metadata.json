@@ -1,0 +1,6 @@
+{
+  "name": "AI StudyMate",
+  "description": "Your personal AI learning assistant with Gemini-powered tutoring, study planning, quizzes, and study history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
